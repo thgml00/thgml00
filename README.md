@@ -8,17 +8,17 @@ jujusohee@naver.com
 
 ✨ Tech Stack ✨
   <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-1572B6?style=flat&logo=C&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=CC6699"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Java-gray?style=flat&logo=Java&logoColor=F7DF1E"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java-gray?style=flat&logo=JAVA&logoColor=F7DF1E"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-pink?style=flat&logo=SQL&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/SQL-pink?style=flat&logo=MySQL&logoColor=764ABC"/>
   </p>
 
   <p>
-  <img src="https://img.shields.io/badge/Node.js-c2c5c5?style=flat&logo=Node.js&logoColor=339933"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SPRING-c2c5c5?style=flat&logo=SPRING&logoColor=339933"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-f1d8d9?style=flat&logo=MySQL&logoColor=4479A1"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap-yellow?style=flat&logo=Bootstrap&logoColor=7952B3"/>
   </p>
