@@ -29,7 +29,7 @@
   <p>[프로젝트 저장소] - (https://github.com/Knormal-21-HF404/Just-Cart-Out.git)</p>
   <p>[프로젝트 시연] - (https://youtu.be/1WjSYeXwU0g)</p>
   <br>
-<h4>[KoreaIT - Frontend(WithDog)]</h4>
+<h3>[KoreaIT - Frontend(WithDog)]</h3>
   <p>[프로젝트 페이지] - (https://withdog0603.netlify.app/)</p>
   <p>[프로젝트 저장소] - (https://github.com/Anne-Hyeyeon/withdog_teamproject_KoreaIT)</p>
 </div>
