@@ -24,10 +24,14 @@
   </p>
   <br><br>
 <h3>✨ Project ✨</h3>
-<h1>[hanium - Just Cart Out!]</h1>
-  <p>[프로젝트 소개](https://knormal-21-hf404.github.io/)</p>
-  <p>[프로젝트 저장소](https://github.com/Knormal-21-HF404/Just-Cart-Out.git)</p>
-  <p>[프로젝트 시연](https://youtu.be/1WjSYeXwU0g)</p>
+<h5>[hanium - Just Cart Out!]</h5>
+  <p>[프로젝트 소개] - (https://knormal-21-hf404.github.io/)</p>
+  <p>[프로젝트 저장소] - (https://github.com/Knormal-21-HF404/Just-Cart-Out.git)</p>
+  <p>[프로젝트 시연] - (https://youtu.be/1WjSYeXwU0g)</p>
+  <br>
+<h5>[KoreaIT - Frontend(WithDog)]</h5>
+  <p>[프로젝트 페이지] - (https://withdog0603.netlify.app/)</p>
+  <p>[프로젝트 저장소] - (https://github.com/Anne-Hyeyeon/withdog_teamproject_KoreaIT)</p>
 </div>
 <!--
 
