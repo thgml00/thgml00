@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=auto&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me&descAlignY=40&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=auto&desc=Decorate%20GitHub%20Profile%20or%20any%20Repo%20like%20me&descAlignY=51&descAlign=62)
 
 <!--
 **thgml00/thgml00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
