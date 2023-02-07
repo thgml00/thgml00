@@ -5,12 +5,8 @@
   
   
   <h3>📫email</h3>
-<p>jujusohee@naver.com</p>
+<p>jujusohee@naver.com</p><br><br>
 
-  
-
-
-  
 <h3>✨ Tech Stack ✨</h3>
   <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
@@ -29,6 +25,8 @@
 
 <!--
 
+<h3>✨ Project ✨</h3>
+<p>[hanium - Just Cart Out!](https://knormal-21-hf404.github.io/)</p>
 </div>
 **thgml00/thgml00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
