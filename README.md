@@ -1,11 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome!&fontAlign=70&fontAlignY=40&color=auto&desc=Sohee's%20GitHub%20Profile%20&descAlignY=58&descAlign=77)
 
+<p>도전을 두려워하지 않고 책임감 있는 엔지니어가 되는 것이 목표입니다!<p>
+  
+  
+  
 <div align="center">
   <h3>📫email</h3>
 <p>jujusohee@naver.com</p>
 
   
-<p>도전을 두려워하지 않고 책임감 있는 엔지니어가 되는 것이 목표입니다!<p>
+
 
   
 <h3>✨ Tech Stack ✨</h3>
