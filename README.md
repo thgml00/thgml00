@@ -22,12 +22,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   </p>
-
-<!--
-
+  <br><br>
 <h3>✨ Project ✨</h3>
 <p>[hanium - Just Cart Out!](https://knormal-21-hf404.github.io/)</p>
 </div>
+<!--
+
+
 **thgml00/thgml00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
