@@ -24,7 +24,10 @@
   </p>
   <br><br>
 <h3>✨ Project ✨</h3>
-<p>[hanium - Just Cart Out!](https://knormal-21-hf404.github.io/)</p>
+<h1>[hanium - Just Cart Out!]</h1>
+  <p>[프로젝트 소개](https://knormal-21-hf404.github.io/)</p>
+  <p>[프로젝트 저장소](https://github.com/Knormal-21-HF404/Just-Cart-Out.git)</p>
+  <p>[프로젝트 시연](https://youtu.be/1WjSYeXwU0g)</p>
 </div>
 <!--
 
