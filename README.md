@@ -10,11 +10,10 @@ jujusohee@naver.com
   <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C-1572B6?style=flat&logo=C&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-green?style=flat&logo=Python&logoColor=CC6699"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JAVA-gray?style=flat&logo=JAVA&logoColor=F7DF1E"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-#3776AB?style=flat&logo=Python&logoColor=white"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"/>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/React-white?style=flat&logo=React&logoColor=61DAFB"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=JavaScript&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQL-pink?style=flat&logo=MySQL&logoColor=764ABC"/>
+  <img src="https://img.shields.io/badge/JavaScript-3178C6?style=flat&logo=JavaScript&logoColor=white"/>
   </p>
 
   <p>
