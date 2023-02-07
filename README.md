@@ -4,10 +4,10 @@
   <h3>📫email</h3>
 <p>jujusohee@naver.com</p>
 
-  #
-도전을 두려워하지 않고 책임감 있는 엔지니어가 되는 것이 목표입니다!
+  
+<p>도전을 두려워하지 않고 책임감 있는 엔지니어가 되는 것이 목표입니다!<p>
 
-  #
+  
 <h3>✨ Tech Stack ✨</h3>
   <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>&nbsp;&nbsp;
