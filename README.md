@@ -31,7 +31,7 @@
   <br>
 <h3>[KoreaIT - Frontend(WithDog)]</h3>
   <p>[프로젝트 페이지] - (https://withdog0603.netlify.app/)</p>
-  <p>[프로젝트 저장소] - (https://github.com/Anne-Hyeyeon/withdog_teamproject_KoreaIT)</p>
+  <p>[프로젝트 저장소] - (https://github.com/thgml00/frontend_project_withdog)</p>
 </div>
 <!--
 
